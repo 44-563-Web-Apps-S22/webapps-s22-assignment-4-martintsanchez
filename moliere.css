@@ -11,13 +11,16 @@ a.hover {
     background-color: blue;
 }
 
-.argan, .toinette{
+.argan, .toinette, .beralde{
     color:brown;
+    margin-bottom: 3px;
+    font-size:small;
 }
 
 #scene {
     color: green;
     font-weight: lighter;
+    margin-top: 2px;
 }
 
 table {
