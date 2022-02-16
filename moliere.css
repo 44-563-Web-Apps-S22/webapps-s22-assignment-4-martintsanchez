@@ -1,0 +1,33 @@
+#speech, #direction, #name {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    color: black;
+}
+#direction {
+    background-color: blanchedalmond;
+}
+a.hover {
+    color: aqua;
+    background-color: blue;
+}
+
+.argan, .toinette{
+    color:brown;
+}
+
+#scene {
+    color: green;
+    font-weight: lighter;
+}
+
+table {
+    border: dashed 3px;
+    border-collapse: separate;
+    color: darkgoldenrod;
+    padding: 5px;
+    margin: auto;
+    
+}
+td, th {border: solid 1px ;
+    text-align: center;
+}
