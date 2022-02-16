@@ -5,13 +5,14 @@
 }
 #direction {
     background-color: blanchedalmond;
+    display: inline-block;
 }
 a.hover {
     color: aqua;
     background-color: blue;
 }
 
-.argan, .toinette, .beralde{
+#name{
     color:brown;
     margin-bottom: 3px;
     font-size:small;
@@ -33,4 +34,11 @@ table {
 }
 td, th {border: solid 1px ;
     text-align: center;
+}
+
+#name:hover {
+    color: orange;
+    box-shadow: 0 3px 3px rgba(184, 9, 9, 0.2); 
+    border: 2px;
+    display: inline-block;
 }
